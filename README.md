@@ -4,7 +4,7 @@
 - Live tracking for more then 100+ cryptocurrency with graph.
 - Live news update from genuine source. 
 - Favorite section for tracking convenience.
-- The logo was designed using Figma.
+- The logo was designed using canva.
 - The application has theme mode (light and dark theme).
 
 ### Developer mode:
